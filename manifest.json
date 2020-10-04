@@ -1,5 +1,5 @@
 {
-	"name": "Chrome Extention Template",
+	"name": "TD Bank Visualized",
 	"version": "1.0",
 	"description": "Build an Extension!",
 	"permissions": ["activeTab", "declarativeContent", "storage"],
